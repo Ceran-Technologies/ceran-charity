@@ -8,7 +8,7 @@ body{
 	content: '';
 	height: 60vh;
 	width: 100%;
-	background-image: url(images/workshop.jpg);
+	background-image: url(workshop.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
